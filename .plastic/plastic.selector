@@ -1,0 +1,4 @@
+repository "NaviGAZE/NaviGAZE@20067325225937@cloud"
+  path "/"
+    br "/main"
+    co "/main"
